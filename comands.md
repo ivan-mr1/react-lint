@@ -1,0 +1,2 @@
+- npx create-vite@latest react-lint (react => JavaScript)
+- 
