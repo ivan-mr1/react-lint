@@ -1,2 +1,0 @@
-- npx create-vite@latest react-lint (react => JavaScript)
-- npm list --depth=0 == версии зависимостей

@@ -18,13 +18,9 @@ npm-debug.log*
 *.log
 
 # Выходные файлы
-dist
+# dist
 build
 coverage
 
 # Fonts.scss
 _fonts.scss
-
-docs
-.vite/
-.vitest/
